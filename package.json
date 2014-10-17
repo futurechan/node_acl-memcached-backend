@@ -1,0 +1,15 @@
+{
+  "name": "node_acl-memcached-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Chan <joshua.bennett.chan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "lodash": "^2.4.1"
+  }
+}
