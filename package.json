@@ -1,5 +1,5 @@
 {
-  "name": "node_acl-memcached-backend",
+  "name": "acl-memcached-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
