@@ -5,7 +5,7 @@ This is a Memcached backend for [acl](https://github.com/OptimalBits/node_acl "n
 
 ##Status
 
-[![BuildStatus](https://secure.travis-ci.org/futurechan/node_acl-memcached-backend.png?branch=master)](https://travis-ci.org/futurechan/node_acl-memcached-backend)
+[![BuildStatus](https://secure.travis-ci.org/futurechan/node_acl-memcached-backend.png?branch=master)](https://travis-ci.org/futurechan/node_acl-memcached-backend) [![DependencyStatus](https://david-dm.org/futurechan/node_acl-memcached-backend.png?branch=master)](https://david-dm.org/futurechan/node_acl-memcached-backend.png?branch=master)
 
 
 ##Installation
